@@ -1,0 +1,29 @@
+{
+    "url": "http://192.168.3.2:8123",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJjYzg2ZjRhMzM2OWU0M2UwOWI1YWExOTVmNzQwZjgyNyIsImlhdCI6MTY5NTEwODczMiwiZXhwIjoyMDEwNDY4NzMyfQ.ojI3iDe5I00ShqzSn6hXEXIM4T87RQhahnz7hPo1P0s",
+    "calenders": [{
+            "entity_id": "calendar.li_ming_yang_ke_biao",
+            "friendly_name": "李铭杨课表"
+        },
+        {
+            "entity_id": "calendar.yang_xing_yu_ke_biao",
+            "friendly_name": "阳星宇课表"
+        },
+        {
+            "entity_id": "calendar.wang_ruo_chen_ke_biao",
+            "friendly_name": "王若晨课表"
+        },
+        {
+            "entity_id": "calendar.zhang_yue_dong_ke_biao",
+            "friendly_name": "张悦栋课表"
+        },
+        {
+            "entity_id": "calendar.zhao_kai_min_ke_biao",
+            "friendly_name": "赵开敏课表"
+        },
+        {
+            "entity_id": "calendar.zheng_yu_hang_ke_biao",
+            "friendly_name": "郑宇航课表"
+        }
+    ]
+}
